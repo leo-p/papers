@@ -45,5 +45,7 @@
     - [pdf](https://arxiv.org/pdf/1409.7495), [summary](https://github.com/leo-p/papers/issues/3)
 - 14.06 - **Generative Adversarial Nets**
     - [pdf](https://arxiv.org/pdf/1406.2661), [summary](https://github.com/leo-p/papers/issues/2)
+- 11.06 - **Stacked Convolutional Auto-Encoders for Hierarchical Feature Extraction**
+    - [pdf](https://pdfs.semanticscholar.org/1c6d/990c80e60aa0b0059415444cdf94b3574f0f.pdf), [summary](https://github.com/leo-p/papers/issues/25)
 - 10.06 - **Deconvolutional Networks**
     - [pdf](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf), [summary](https://github.com/leo-p/papers/issues/1)
