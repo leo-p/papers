@@ -1,14 +1,14 @@
 # Papers read so far
 - 17.05 - **Visual Attribute Transfer through Deep Image Analogy**
-    - [pdf](https://arxiv.org/pdf/1705.01088.pdf), [summary](https://github.com/leo-p/papers/issues/24)
+    - [pdf](https://arxiv.org/pdf/1705.01088), [summary](https://github.com/leo-p/papers/issues/24)
 - 17.04 - **Softmax GAN**
-    - [pdf](https://arxiv.org/pdf/1704.06191.pdf), [summary](https://github.com/leo-p/papers/issues/23)
+    - [pdf](https://arxiv.org/pdf/1704.06191), [summary](https://github.com/leo-p/papers/issues/23)
 - 17.04 - **Generate To Adapt - Aligning Domains using Generative Adversarial Networks**
-    - [pdf](https://arxiv.org/pdf/1704.01705v1.pdf), [summary](https://github.com/leo-p/papers/issues/22)
+    - [pdf](https://arxiv.org/pdf/1704.01705v1), [summary](https://github.com/leo-p/papers/issues/22)
 - 17.03 - **Neural Episodic Control**
-    - [pdf](https://arxiv.org/pdf/1703.01988.pdf), [summary](https://github.com/leo-p/papers/issues/21)
+    - [pdf](https://arxiv.org/pdf/1703.01988), [summary](https://github.com/leo-p/papers/issues/21)
 - 17.03 - **Mask R-CNN**
-    - [pdf](https://arxiv.org/pdf/1703.06870.pdf), [summary](https://github.com/leo-p/papers/issues/20)
+    - [pdf](https://arxiv.org/pdf/1703.06870), [summary](https://github.com/leo-p/papers/issues/20)
 - 17.03 - **BEGAN- Boundary Equilibrium Generative Adversarial Networks**
     - [pdf](https://arxiv.org/pdf/1703.10717v3), [summary](https://github.com/leo-p/papers/issues/19)
 - 17.02 - **Understanding Deep Learning Requires Rethinking Generalization**
@@ -30,9 +30,11 @@
 - 16.07 - **Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation**
     - [pdf](https://arxiv.org/pdf/1607.03516), [summary](https://github.com/leo-p/papers/issues/11)
 - 16.05 - **Domain-Adversarial Training of Neural Networks**
-    - [pdf](https://arxiv.org/pdf/1505.07818.pdf), [summary](https://github.com/leo-p/papers/issues/6)
+    - [pdf](https://arxiv.org/pdf/1505.07818), [summary](https://github.com/leo-p/papers/issues/6)
 - 16.01 - **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
     - [pdf](https://arxiv.org/pdf/1506.01497), [summary](https://github.com/leo-p/papers/issues/9)
+- 15.12 - **Deep Residual Learning for Image Recognition**
+    - [pdf](https://arxiv.org/pdf/1512.03385), [summary](https://github.com/leo-p/papers/issues/27)
 - 15.11 - **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**
     - [pdf](https://arxiv.org/pdf/1511.06434), [summary](https://github.com/leo-p/papers/issues/8)
 - 15.04 - **Fast R-CNN**
@@ -40,7 +42,7 @@
 - 15.02 - **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
     - [pdf](https://arxiv.org/pdf/1502.03167), [summary](https://github.com/leo-p/papers/issues/5)
 - 14.12 - **Dropout: A Simple Way to Prevent Neural Networks from Overfitting**
-    - [pdf](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiE65K0jYTUAhUEiRoKHUovBz8QFggmMAA&url=https%3A%2F%2Fwww.cs.toronto.edu%2F~hinton%2Fabsps%2FJMLRdropout.pdf&usg=AFQjCNFModVeeXkqtxn_TXeKPB0zFtw5ew&sig2=-U_wHFWHReITAPKk3qBmXw), summary
+    - [pdf](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf), summary
 - 14.11 - **Conditional Generative Adversarial Nets**
     - [pdf](https://arxiv.org/pdf/1411.1784), [summary](https://github.com/leo-p/papers/issues/4)
 - 14.09 - **Unsupervised Domain Adaptation by Backpropagation**
