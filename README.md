@@ -21,6 +21,8 @@
     - [pdf](https://arxiv.org/pdf/1701.00160), [summary](https://github.com/leo-p/papers/issues/15)
 - 17.01 - **Learning From Noisy Large-Scale Datasets With Minimal Supervision**
     - [pdf](https://arxiv.org/pdf/1701.01619), [summary](https://github.com/leo-p/papers/issues/14)
+- 16.12 - **Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space**
+    - [pdf](https://arxiv.org/pdf/1612.00005v2), [summary](https://github.com/leo-p/papers/issues/28)
 - 16.12 - **YOLO9000: Better, Faster, Stronger**
     - [pdf](https://arxiv.org/pdf/1612.08242), [summary](https://github.com/leo-p/papers/issues/13)
 - 16.11 - **Deep Information Propagation**
