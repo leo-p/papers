@@ -11,6 +11,8 @@
     - [pdf](https://arxiv.org/pdf/1703.06870), [summary](https://github.com/leo-p/papers/issues/20)
 - 17.03 - **BEGAN- Boundary Equilibrium Generative Adversarial Networks**
     - [pdf](https://arxiv.org/pdf/1703.10717v3), [summary](https://github.com/leo-p/papers/issues/19)
+- 17.03 - **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**
+    - [pdf](https://arxiv.org/pdf/1703.10593), [summary](https://github.com/leo-p/papers/issues/30)
 - 17.02 - **Understanding Deep Learning Requires Rethinking Generalization**
     - [pdf](https://arxiv.org/pdf/1611.03530), [summary](https://github.com/leo-p/papers/issues/18)
 - 17.02 - **Adversarial Discriminative Domain Adaptation**
