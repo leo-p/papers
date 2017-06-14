@@ -43,6 +43,8 @@
     - [pdf](https://arxiv.org/pdf/1512.03385), [summary](https://github.com/leo-p/papers/issues/27)
 - 15.11 - **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**
     - [pdf](https://arxiv.org/pdf/1511.06434), [summary](https://github.com/leo-p/papers/issues/8)
+- 15.04 - **Active Learning by Learning**
+    - [pdf](https://www.csie.ntu.edu.tw/~htlin/paper/doc/aaai15albl.pdf), [summary](https://github.com/leo-p/papers/issues/34)
 - 15.04 - **Fast R-CNN**
     - [pdf](https://arxiv.org/pdf/1504.08083), [summary](https://github.com/leo-p/papers/issues/7)
 - 15.02 - **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
