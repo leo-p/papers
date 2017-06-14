@@ -1,4 +1,6 @@
 # Papers read so far
+- 17.06 - **Self-Normalizing Neural Networks**
+    - [pdf](https://arxiv.org/pdf/1706.02515), [summary](https://github.com/leo-p/papers/issues/31)
 - 17.05 - **Visual Attribute Transfer through Deep Image Analogy**
     - [pdf](https://arxiv.org/pdf/1705.01088), [summary](https://github.com/leo-p/papers/issues/24)
 - 17.04 - **Softmax GAN**
