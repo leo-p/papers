@@ -54,7 +54,9 @@
 - 14.09 - **Unsupervised Domain Adaptation by Backpropagation**
     - [pdf](https://arxiv.org/pdf/1409.7495), [summary](https://github.com/leo-p/papers/issues/3)
 - 14.06 - **Generative Adversarial Nets**
-    - [pdf](https://arxiv.org/pdf/1406.2661), [summary](https://github.com/leo-p/papers/issues/2)
+    - [pdf](https://arxiv.org/pdf/1406.2661), [summary](https://github.com/leo-p/papers/issues/2)  
+- 14.06 - **Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks**
+    - [pdf](https://www.di.ens.fr/willow/pdfscurrent/oquab14cvpr.pdf), [summary](https://github.com/leo-p/papers/issues/32)
 - 11.06 - **Stacked Convolutional Auto-Encoders for Hierarchical Feature Extraction**
     - [pdf](https://pdfs.semanticscholar.org/1c6d/990c80e60aa0b0059415444cdf94b3574f0f.pdf), [summary](https://github.com/leo-p/papers/issues/25)
 - 10.06 - **Deconvolutional Networks**
