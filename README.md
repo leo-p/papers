@@ -61,3 +61,5 @@
     - [pdf](https://pdfs.semanticscholar.org/1c6d/990c80e60aa0b0059415444cdf94b3574f0f.pdf), [summary](https://github.com/leo-p/papers/issues/25)
 - 10.06 - **Deconvolutional Networks**
     - [pdf](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf), [summary](https://github.com/leo-p/papers/issues/1)
+- 10.01 - **Active Learning Literature Survey**
+    - [pdf](http://burrsettles.com/pub/settles.activelearning.pdf), [summary](https://github.com/leo-p/papers/issues/33)
