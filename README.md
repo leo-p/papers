@@ -4,7 +4,9 @@
 - 17.06 - **StreetStyle: Exploring world-wide clothing styles from millions of photos**
     - [pdf](https://arxiv.org/pdf/1706.01869), [summary](https://github.com/leo-p/papers/issues/35) 
 - 17.05 - **Visual Attribute Transfer through Deep Image Analogy**
-    - [pdf](https://arxiv.org/pdf/1705.01088), [summary](https://github.com/leo-p/papers/issues/24)
+    - [pdf](https://arxiv.org/pdf/1705.01088), [summary](https://github.com/leo-p/papers/issues/24) 
+- 17.05 - **pix2code: Generating Code from a Graphical User Interface Screenshot**
+    - [pdf](https://arxiv.org/pdf/1705.07962), [summary](https://github.com/leo-p/papers/issues/36)
 - 17.04 - **Softmax GAN**
     - [pdf](https://arxiv.org/pdf/1704.06191), [summary](https://github.com/leo-p/papers/issues/23)
 - 17.04 - **Generate To Adapt - Aligning Domains using Generative Adversarial Networks**
