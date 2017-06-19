@@ -35,6 +35,8 @@
     - [pdf](https://arxiv.org/pdf/1612.08242), [summary](https://github.com/leo-p/papers/issues/13)
 - 16.11 - **Deep Information Propagation**
     - [pdf](https://arxiv.org/pdf/1611.01232), [summary](https://github.com/leo-p/papers/issues/12)
+- 16.11 - **Speed/accuracy trade-offs for modern convolutional object detectors**
+    - [pdf](https://arxiv.org/pdf/1611.10012), [summary](https://github.com/leo-p/papers/issues/37)
 - 16/11 - **Neural Architecture Search with Reinforcement Learning**
     - [pdf](https://arxiv.org/pdf/1611.01578), [summary](https://github.com/leo-p/papers/issues/26)
 - 16.07 - **Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation**
