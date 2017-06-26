@@ -56,7 +56,9 @@
 - 15.02 - **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
     - [pdf](https://arxiv.org/pdf/1502.03167), [summary](https://github.com/leo-p/papers/issues/5)
 - 14.12 - **Dropout: A Simple Way to Prevent Neural Networks from Overfitting**
-    - [pdf](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf), summary
+    - [pdf](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf), [summary](test)
+- 14.12 - **Training Deep Neural Networks on Noisy Labels with Bootstrapping**
+    - [pdf](https://arxiv.org/pdf/1412.6596), [summary](https://github.com/leo-p/papers/issues/38)
 - 14.11 - **Conditional Generative Adversarial Nets**
     - [pdf](https://arxiv.org/pdf/1411.1784), [summary](https://github.com/leo-p/papers/issues/4)
 - 14.09 - **Unsupervised Domain Adaptation by Backpropagation**
