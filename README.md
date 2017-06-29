@@ -7,6 +7,8 @@
     - [pdf](https://arxiv.org/pdf/1705.01088), [summary](https://github.com/leo-p/papers/issues/24) 
 - 17.05 - **pix2code: Generating Code from a Graphical User Interface Screenshot**
     - [pdf](https://arxiv.org/pdf/1705.07962), [summary](https://github.com/leo-p/papers/issues/36)
+- 17.05 - **A System for Accessible Artificial Intelligence**
+    - [pdf](https://arxiv.org/pdf/1705.00594), [summary](https://github.com/leo-p/papers/issues/39)
 - 17.04 - **Softmax GAN**
     - [pdf](https://arxiv.org/pdf/1704.06191), [summary](https://github.com/leo-p/papers/issues/23)
 - 17.04 - **Generate To Adapt - Aligning Domains using Generative Adversarial Networks**
@@ -23,6 +25,8 @@
     - [pdf](https://arxiv.org/pdf/1611.03530), [summary](https://github.com/leo-p/papers/issues/18)
 - 17.02 - **Adversarial Discriminative Domain Adaptation**
     - [pdf](https://arxiv.org/pdf/1702.05464), [summary](https://github.com/leo-p/papers/issues/17)
+- 17.01 - **Cost-Effective Active Learning for Deep Image Classification**
+    - [pdf](https://arxiv.org/pdf/1701.03551), [summary](https://github.com/leo-p/papers/issues/40)
 - 17.01 - **Wasserstein GAN**
     - [pdf](https://arxiv.org/pdf/1701.07875), [summary](https://github.com/leo-p/papers/issues/16)
 - 17.01 - **NIPS Tutorial - Generative Adversarial Networks**
