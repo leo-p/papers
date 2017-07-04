@@ -9,6 +9,8 @@
     - [pdf](https://arxiv.org/pdf/1705.07962), [summary](https://github.com/leo-p/papers/issues/36)
 - 17.05 - **A System for Accessible Artificial Intelligence**
     - [pdf](https://arxiv.org/pdf/1705.00594), [summary](https://github.com/leo-p/papers/issues/39)
+- 17.05 - **Domain Adaptation with Randomized Multilinear Adversarial Networks**
+    - [pdf](https://arxiv.org/pdf/1705.10667), [summary](https://github.com/leo-p/papers/issues/29)
 - 17.04 - **Softmax GAN**
     - [pdf](https://arxiv.org/pdf/1704.06191), [summary](https://github.com/leo-p/papers/issues/23)
 - 17.04 - **Generate To Adapt - Aligning Domains using Generative Adversarial Networks**
